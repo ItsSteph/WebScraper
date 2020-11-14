@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U4lWOX8CDxZ+ycqPzPquiZZ4l/t2ehuMa+UUuoCuBwkm3cXQ/he4A+3YlZtLcYbIohO/NPDTkuWq1Kt2lzuwMA==",
+  "success": true,
+  "projectFilePath": "/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "/home/steph/.nuget/packages/htmlagilitypack/1.11.26/htmlagilitypack.1.11.26.nupkg.sha512"
+  ],
+  "logs": []
+}

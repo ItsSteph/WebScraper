@@ -1,0 +1,15 @@
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.deps.json
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.runtimeconfig.json
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.runtimeconfig.dev.json
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.dll
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/ConsoleApp6.pdb
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.csprojAssemblyReference.cache
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.AssemblyInfoInputs.cache
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.AssemblyInfo.cs
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.csproj.CoreCompileInputs.cache
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.csproj.CopyComplete
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.dll
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.pdb
+/home/steph/RiderProjects/ConsoleApp6/ConsoleApp6/obj/Debug/netcoreapp3.1/ConsoleApp6.genruntimeconfig.cache
